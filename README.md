@@ -24,7 +24,7 @@ Yo, I'm James, I'm still fairly new so my profile is developing (mind the pun) �
 -->
 <br>
 <p align="center">
-  🔭 I’m currently working on https://moignard.com.au/, various Shopify redesigns/ optimizations and other miscellaneous projects.
+  🔭 I’m currently working on https://moignard.com.au/, various Shopify redesigns / optimizations and other miscellaneous projects.
   <br>
   🌱 I’m currently learning react, react-redux, node-js
   <br>
