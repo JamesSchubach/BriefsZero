@@ -1,6 +1,6 @@
 <p align="center">
 Yo, I'm James, I'm still fairly new so my profile is developing (mind the pun) 👋
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<img src="https://magiccopy.xyz/assets/images/hadder.gif" alt="Coder GIF" width="500" height="400">
   </p>
 <p align="center">
   <a href="https://twitter.com/BriefsZero" target="_blank">
