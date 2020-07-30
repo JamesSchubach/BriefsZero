@@ -20,10 +20,17 @@ Yo, I'm James, I'm still fairly new so my profile is developing (mind the pun) �
 <!--
 **BriefsZero/BriefsZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<br>
 - 🔭 I’m currently working on https://moignard.com.au/, various Shopify redesigns/ optimizations and other miscellaneous projects.
+<br>
 - 🌱 I’m currently learning react, react-redux, node-js
+<br>
 - 👯 I’m looking to collaborate on anything frontend or backend related
+<br>
 - 🤔 I’m looking for help with advanced react practices
+<br>
 - 💬 Ask me about anything tech related :)
+<br>
 - ⚡ Fun fact: I binge a lot of TV Shows and Anime
+<br>
 
