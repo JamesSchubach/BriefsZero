@@ -28,9 +28,9 @@ Yo, I'm James, I'm still fairly new so my profile is developing (mind the pun) �
   <br>
   🌱 I’m currently learning react, react-redux, node-js
   <br>
-  👯 I’m looking to collaborate on anything frontend or backend related
+  👯 I’m looking to collaborate on anything to do with frontend/backend or any kind of Software Development
   <br>
-  🤔 I’m looking for help with advanced react practices
+  🤔 I’m looking for help with advanced react practices, security, Software Dev
   <br>
   💬 Ask me about anything tech related :)
   <br>
