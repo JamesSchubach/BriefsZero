@@ -19,9 +19,9 @@ Yo, I'm James, I'm still fairly new so my profile is developing (mind the pun) �
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
   </a>
 </p>
-<!--
-**BriefsZero/BriefsZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
+<img align="left" alt="BriefsZero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BriefsZero&show_icons=true&hide_border=true" />
+
 <br>
 <p align="center">
   🔭 I’m currently working on https://moignard.com.au/, various Shopify redesigns / optimizations and other miscellaneous projects.
@@ -37,4 +37,3 @@ Yo, I'm James, I'm still fairly new so my profile is developing (mind the pun) �
   ⚡ Fun fact: I binge a lot of TV Shows and Anime
   <br>
 </p>
-
