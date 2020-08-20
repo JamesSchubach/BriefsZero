@@ -1,4 +1,4 @@
-<h1 align="left" style="color: #7fff00">
+<h1 align="left">
 Yo, I'm James, I'm still fairly new so my profile is developing (mind the pun) 👋
 <img src="https://magiccopy.xyz/assets/images/hadder.gif" alt="Coder GIF">
 </h1>
@@ -17,10 +17,11 @@ Yo, I'm James, I'm still fairly new so my profile is developing (mind the pun) �
   </a>
 </p>
 
-<img align="left" alt="BriefsZero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BriefsZero&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=chartreuse-dark" />
+<img align="center" alt="BriefsZero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BriefsZero&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=graywhite" />
 
 <br>
-<p align="left">
+<br>
+<p align="left" style="display:block">
   🔭 I’m currently working on https://moignard.com.au/, various Shopify redesigns / optimizations and other miscellaneous projects.
   <br>
   🌱 I’m currently learning react, react-redux, node-js
@@ -34,12 +35,3 @@ Yo, I'm James, I'm still fairly new so my profile is developing (mind the pun) �
   ⚡ Fun fact: I binge a lot of TV Shows and Anime
   <br>
 </p>
-<style>
-  html {
-    background: black
-  }
-  h1 {
-    color: #7fff00,
-    font: "Segoe UI, Ubuntu, Sans-Serif"
-  }
-</style>
