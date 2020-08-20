@@ -1,8 +1,10 @@
 <h1 align="left">
-Yo, I'm James, I'm still fairly new so my profile is developing (mind the pun) 👋  
+Yo, I'm James, Developer with a security interest 🤙
 <br>
 </h1>
+<p align="center">
 <img src="https://magiccopy.xyz/assets/images/hadder.gif" alt="Coder GIF">
+</p>
 <h1></h1>
 <p align="center">
   <a href="https://twitter.com/BriefsZero" target="_blank">
@@ -30,10 +32,10 @@ Yo, I'm James, I'm still fairly new so my profile is developing (mind the pun) �
   <br>
   👯 I’m looking to collaborate on anything to do with frontend/backend or any kind of Software Development
   <br>
-  🤔 I’m looking for help with advanced react practices, security, Software Dev
+  🤔 I’m looking for help with Advanced React Practices, Security, Software Dev
   <br>
   💬 Ask me about anything tech related :)
   <br>
-  ⚡ Fun fact: I binge a lot of TV Shows and Anime
+  ⚡ Fun fact: I'm a powerlifter and I binge a lot of TV Shows
   <br>
 </p>
