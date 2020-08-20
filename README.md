@@ -1,7 +1,9 @@
 <h1 align="left">
-Yo, I'm James, I'm still fairly new so my profile is developing (mind the pun) 👋
-<img src="https://magiccopy.xyz/assets/images/hadder.gif" alt="Coder GIF">
+Yo, I'm James, I'm still fairly new so my profile is developing (mind the pun) 👋  
+<br>
 </h1>
+<img src="https://magiccopy.xyz/assets/images/hadder.gif" alt="Coder GIF">
+<h1></h1>
 <p align="center">
   <a href="https://twitter.com/BriefsZero" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
@@ -17,9 +19,9 @@ Yo, I'm James, I'm still fairly new so my profile is developing (mind the pun) �
   </a>
 </p>
 
+<p align="center">
 <img align="center" alt="BriefsZero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BriefsZero&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=graywhite" />
-
-<br>
+</p>
 <br>
 <p align="left" style="display:block">
   🔭 I’m currently working on https://moignard.com.au/, various Shopify redesigns / optimizations and other miscellaneous projects.
