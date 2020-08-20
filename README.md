@@ -1,7 +1,7 @@
-<p align="center">
+<h1 align="left" style="color: #7fff00">
 Yo, I'm James, I'm still fairly new so my profile is developing (mind the pun) 👋
 <img src="https://magiccopy.xyz/assets/images/hadder.gif" alt="Coder GIF">
-  </p>
+</h1>
 <p align="center">
   <a href="https://twitter.com/BriefsZero" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
@@ -12,18 +12,15 @@ Yo, I'm James, I'm still fairly new so my profile is developing (mind the pun) �
   <a href="https://www.instagram.com/thebrawnyguru/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
-<!--   <a href="https://medium.com/@Demartini" target="_blank">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
-  </a> -->
   <a href="https://www.facebook.com/briefs123" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
   </a>
 </p>
 
-<img align="left" alt="BriefsZero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BriefsZero&show_icons=true&hide_border=true" />
+<img align="left" alt="BriefsZero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BriefsZero&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=chartreuse-dark" />
 
 <br>
-<p align="center">
+<p align="left">
   🔭 I’m currently working on https://moignard.com.au/, various Shopify redesigns / optimizations and other miscellaneous projects.
   <br>
   🌱 I’m currently learning react, react-redux, node-js
@@ -37,3 +34,12 @@ Yo, I'm James, I'm still fairly new so my profile is developing (mind the pun) �
   ⚡ Fun fact: I binge a lot of TV Shows and Anime
   <br>
 </p>
+<style>
+  html {
+    background: black
+  }
+  h1 {
+    color: #7fff00,
+    font: "Segoe UI, Ubuntu, Sans-Serif"
+  }
+</style>
