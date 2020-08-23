@@ -31,7 +31,6 @@ Yo, I'm James, Developer with a security interest 🤙
   <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
 </details>
-<br>
 <p align="left" style="display:block">
   🌱 I’m currently learning react, react-redux, node-js
   <br>
