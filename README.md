@@ -31,15 +31,3 @@ Yo, I'm James, Developer with a security interest 🤙
   <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
 </details>
-<p align="left" style="display:block">
-  🌱 I’m currently learning react, react-redux, node-js
-  <br>
-  👯 I’m looking to collaborate on anything to do with frontend/backend or any kind of Software Development
-  <br>
-  🤔 I’m looking for help with Advanced React Practices, Security, Software Dev
-  <br>
-  💬 Ask me about anything tech related :)
-  <br>
-  ⚡ Fun fact: I'm a powerlifter and I binge a lot of TV Shows
-  <br>
-</p>
