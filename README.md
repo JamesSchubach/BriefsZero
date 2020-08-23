@@ -27,6 +27,8 @@ Yo, I'm James, Developer with a security interest 🤙
 <img align="center" alt="BriefsZero's Github Stats" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=BriefsZero&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=graywhite" />
 </p>
 <br>
+## :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 <br>
 <p align="left" style="display:block">
