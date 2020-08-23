@@ -30,6 +30,7 @@ Yo, I'm James, Developer with a security interest 🤙
 :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 <br>
 <p align="left" style="display:block">
   🌱 I’m currently learning react, react-redux, node-js
