@@ -20,9 +20,9 @@ Yo, I'm James, Developer with a security interest 🤙
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
   </a>
 </p>
-[<img src="https://spotifyreadme.vercel.app/api/spotify" width="350" />](https://open.spotify.com/user/briefs1)
 <p align="center">
-<img align="center" alt="BriefsZero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BriefsZero&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=graywhite" />
+<img src="https://spotifyreadme.vercel.app/api/spotify" width="350" />(https://open.spotify.com/user/briefs1)
+<img align="center" alt="BriefsZero's Github Stats" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=BriefsZero&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=graywhite" />
 </p>
 <br>
 <p align="left" style="display:block">
