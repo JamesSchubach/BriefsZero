@@ -27,9 +27,9 @@ Yo, I'm James, Developer with a security interest 🤙
 <img align="center" alt="BriefsZero's Github Stats" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=BriefsZero&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=graywhite" />
 </p>
 <br>
+<!--START_SECTION:activity-->
+<br>
 <p align="left" style="display:block">
-  🔭 I’m currently working on https://moignard.com.au/, various Shopify redesigns / optimizations and other miscellaneous projects.
-  <br>
   🌱 I’m currently learning react, react-redux, node-js
   <br>
   👯 I’m looking to collaborate on anything to do with frontend/backend or any kind of Software Development
