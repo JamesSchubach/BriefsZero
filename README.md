@@ -21,7 +21,7 @@ Yo, I'm James, Developer with a security interest 🤙
   </a>
 </p>
 <p align="center">
-<img src="https://spotifyreadme.vercel.app/api/spotify" width="350" />(https://open.spotify.com/user/briefs1)
+<img src="https://spotifyreadme.vercel.app/api/spotify" width="350" />
 <img align="center" alt="BriefsZero's Github Stats" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=BriefsZero&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=graywhite" />
 </p>
 <br>
