@@ -1,6 +1,5 @@
 ## Yo, I'm James, Developer with a security interest 🤙
 
-<br />
 - 🔭 I’m currently working on a my website and various other projects!
 - 🌱 I’m currently learning everything I can get my hands on 🤣
 - 👯 I’m looking to collaborate with other content creators
