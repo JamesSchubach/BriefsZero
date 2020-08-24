@@ -24,7 +24,6 @@
 
 <img src="https://spotifyreadme.vercel.app/api/spotify" width="350" />
 
-<br />
 
 ## Github Stats :100:
 
