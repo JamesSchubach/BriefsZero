@@ -16,6 +16,8 @@ Yo, I'm James, Developer with a security interest 🤙
   <a href="https://www.facebook.com/briefs123" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
   </a>
+
+<br>
 ### Spotify Playing 🎧
 <img src="https://spotifyreadme.vercel.app/api/spotify" width="350" />
 <img align="center" alt="BriefsZero's Github Stats" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=BriefsZero&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=graywhite" />
