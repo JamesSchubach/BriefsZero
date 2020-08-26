@@ -20,6 +20,9 @@
   <a href="https://www.facebook.com/briefs123" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
   </a>
+  <a href="http://jamesdev.io" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=appveyor&logoColor=white&color=071A2C" alt="Website"/>
+  </a>
 
 <br />
 
