@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything I can get my hands on 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Movies / TV and Anime
+- ⚡ Fun fact: I love to watch Movies / TV and Anime
 
 ## Connect with me:
 
