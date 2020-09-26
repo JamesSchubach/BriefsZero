@@ -41,8 +41,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#21](https://github.com//jamesgeorge007/github-activity-readme/issues/21) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. ❗️ Opened issue [#21](https://github.com//jamesgeorge007/github-activity-readme/issues/21) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. ❗️ Closed issue [#21](https://github.com/jamesgeorge007/github-activity-readme/issues/21) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. ❗️ Opened issue [#21](https://github.com/jamesgeorge007/github-activity-readme/issues/21) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 
