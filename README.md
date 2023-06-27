@@ -14,12 +14,6 @@
   <a href="https://www.linkedin.com/in/james-schubach" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/thebrawnyguru/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/briefs123" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
-  </a>
   <a href="http://jamesdev.io" target="_blank">
     <img src="https://img.shields.io/badge/Website-%231877F2.svg?&style=for-the-badge&logo=appveyor&logoColor=white&color=071A2C" alt="Website"/>
   </a>
